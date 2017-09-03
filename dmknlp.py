@@ -10,8 +10,8 @@ def dmknlp(dmk):
 
     config = {
         "Region": "sh",
-        "secretId": "AKID9RRAblEDahX6OPqmolZ7OO6Xgnlevjvr",
-        "secretKey": "nWJr8WfZMt99tMiy3ra4HCYnmUxMVOCo",
+        "secretId": "",
+        "secretKey": "",
         "method": "get"
     }
 
@@ -58,7 +58,7 @@ def ListFilesToTxt(dir,file,wildcard,recursion):
                     break  
   
 def loadDmk():  
-    dir="C:\\Users\\zzkha\\Desktop\\dmkspider\\dmktxt"  
+    dir=""  
     outfile="list.txt"  
     wildcard = ".txt"
     bangumiData = []
