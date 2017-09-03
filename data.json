@@ -1,0 +1,156 @@
+{
+    "user": [
+        {
+            "uid": 100000,
+            "name": "user0",
+            "dmk_log": 2.21
+        },
+        {
+            "uid": 100001,
+            "name": "user1",
+            "dmk_log": 2.72
+        },
+        {
+            "uid": 100002,
+            "name": "user2",
+            "dmk_log": 1.55
+        },
+        {
+            "uid": 100003,
+            "name": "user3",
+            "dmk_log": 2.76
+        },
+        {
+            "uid": 100004,
+            "name": "user4",
+            "dmk_log": -2.01
+        },
+        {
+            "uid": 100005,
+            "name": "user5",
+            "dmk_log": 1.38
+        },
+        {
+            "uid": 100006,
+            "name": "user6",
+            "dmk_log": 1.34
+        },
+        {
+            "uid": 100007,
+            "name": "user7",
+            "dmk_log": 3.23
+        },
+        {
+            "uid": 100008,
+            "name": "user8",
+            "dmk_log": -1.88
+        },
+        {
+            "uid": 100009,
+            "name": "user9",
+            "dmk_log": 3.31
+        }
+    ],
+    "bangumi": [
+        {
+            "bid": 5800,
+            "title": "小林家的龙女仆",
+            "emotion": 1.87
+        },
+        {
+            "bid": 5793,
+            "title": "珈百璃的堕落",
+            "emotion": 1.49
+        },
+        {
+            "bid": 5774,
+            "title": "清恋 SEIREN",
+            "emotion": 1.27
+        },
+        {
+            "bid": 5776,
+            "title": "URARA迷路帖",
+            "emotion": 1.88
+        },
+        {
+            "bid": 5797,
+            "title": "Hand Shakers",
+            "emotion": -1.46
+        },
+        {
+            "bid": 5806,
+            "title": "Rewrite 2nd Season",
+            "emotion": -0.63
+        },
+        {
+            "bid": 5778,
+            "title": "风夏",
+            "emotion": 1.36
+        },
+        {
+            "bid": 5803,
+            "title": "SUPER LOVERS 第二季",
+            "emotion": 0.25
+        },
+        {
+            "bid": 5789,
+            "title": "热诚传说 第二季",
+            "emotion": 0.72
+        },
+        {
+            "bid": 5798,
+            "title": "One Room",
+            "emotion": 1.08
+        },
+        {
+            "bid": 5809,
+            "title": "黑白来看守所 第二季",
+            "emotion": 0.37
+        },
+        {
+            "bid": 5773,
+            "title": "秋叶原之旅 THE ANIMATION",
+            "emotion": 0.43
+        },
+        {
+            "bid": 5795,
+            "title": "ACCA13区监察课",
+            "emotion": 0.65
+        },
+        {
+            "bid": 5802,
+            "title": "CHAOS;CHILD",
+            "emotion": -0.77
+        },
+        {
+            "bid": 5788,
+            "title": "小魔女学园 TV版",
+            "emotion": 0.69
+        },
+        {
+            "bid": 5786,
+            "title": "猫咪日常",
+            "emotion": 1.62
+        },
+        {
+            "bid": 5796,
+            "title": "兽娘动物园",
+            "emotion": 1.07
+        },
+        {
+            "bid": 5790,
+            "title": "宇宙警探elDLIVE",
+            "emotion": 0.88
+        },
+        {
+            "bid": 5784,
+            "title": "锁链战记 赫克瑟塔斯之光",
+            "emotion": 0.76
+        },
+        {
+            "bid": 5832,
+            "title": "暗芝居 第四季",
+            "emotion": -1.18
+        }
+    ]
+}
